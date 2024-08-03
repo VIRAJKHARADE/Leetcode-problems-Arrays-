@@ -1,13 +1,35 @@
-# Leetcode-problems-Arrays-
+# LeetCode Array Problems Solutions
 
-42. Trapping rain water (hard)
+Welcome to the **LeetCode Array Problems Solutions** repository! This repository contains solutions to various array problems from LeetCode, written in Java. The goal of this repository is to help fellow programmers improve their problem-solving skills and understand different approaches to solving array-related problems.
 
-Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+## Introduction
 
-test cases-
-Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
-Output: 6
-Explanation: The above elevation map (black section) is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped.
+Arrays are a fundamental data structure used in programming and are often tested in coding interviews. This repository provides comprehensive solutions to an array of problems from LeetCode, aiming to cover various concepts and techniques.
 
-Input: height = [4,2,0,3,2,5]
-Output: 9
+## Problem List
+
+Below is a list of array problems solved in this repository. Each problem includes a link to the original LeetCode problem and a detailed explanation of the solution:
+
+
+
+## How to Use
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/leetcode-array-problems.git
+    cd leetcode-array-problems
+    ```
+
+2. **Browse the problems**: Navigate through the directories to find the problem you're interested in.
+
+3. **Read the solution**: Each problem has a README file with a detailed explanation and the solution code.
+
+## Contributing
+
+Contributions are welcome! If you have a better solution or a new problem to add, feel free to create a pull request. Please follow the structure and guidelines provided in this repository.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
